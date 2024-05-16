@@ -44,7 +44,7 @@ This Streamlit web application predicts the weight of a fish based on its specie
 - This app is a simplified example and may need enhancements for production.
   
 ## Preview
-Check out the app [here][🐠 ]().
+Check out the app [here](https://santhoshi-fishweightprediction0708.streamlit.app).
 
 ## Connect
 Reach out on [LinkedIn](https://www.linkedin.com/in/kothapalli-santhoshi-368951254/). Your feedback is valuable! Email us at santhu2002.kothapalli@gmail.com
